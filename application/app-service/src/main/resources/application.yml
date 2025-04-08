@@ -19,4 +19,4 @@ management:
 
 entries:
   reactive-web:
-    basePath: "/bootcamp"
+    basePath: "/tcamp"
